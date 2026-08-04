@@ -1,3 +1,9 @@
 {
-  "approved_users": []
+  "approved_users": [
+    {
+      "email": "kanagaraj621212@gmail.com",
+      "plan": "Monthly",
+      "expiry": "2026-09-05"
+    }
+  ]
 }
